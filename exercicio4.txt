@@ -1,0 +1,20 @@
+Formula utilizada:
+Tempo = Distancia / Velocidade
+
+Carro:
+Tempo = 100 / 110
+Tempo = 0.9
+Tempo = 54min
+
+Caminhão:
+Tempo = 100 / 80
+Tempo = 1.25
+Tempo = 75min
+Tempo = 75min + 10min (pedágio)
+Tempo = 85min
+
+Ponto de Cruzamento:
+x = 110 * 100 / 110 * 70
+x = 60,9
+
+Quando eles se cruzarem eles estarão a mesma distancia de Ribeirão Preto, visto que ambos estarão no KM 60,9
